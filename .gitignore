@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+# Kotlin Gradle plugin 2.x artifact (session/diagnostics cache)
+.kotlin/
+captures/
+*.log
+# tool-local, not part of the library
+.claude/
+graphify-out/
